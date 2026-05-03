@@ -1,4 +1,4 @@
-# Web Development — Module Summary & Cheatsheet
+# Web Development Cheatsheet
 
 A study reference covering the full web development stack: from how the internet delivers a webpage, through HTML, CSS, JavaScript, mobile design, server-side Node.js and PHP, relational databases, React, and accessibility.
 
