@@ -3,7 +3,7 @@
 A study reference covering the full web development stack: from how the internet delivers a webpage, through HTML, CSS, JavaScript, mobile design, server-side Node.js and PHP, relational databases, React, and accessibility.
 
 **How this document is organized:**
-- **Part 1** — Module-by-module conceptual summary with analogies.
+- **Part 1** — Conceptual summary with analogies.
 - **Part 2** — Quick-lookup cheatsheet with copy-pasteable code.
 - **Part 3** — Component deep-dives: what each major piece *is*, *why* it's useful, and *how* it contributes to the stack.
 - **Part 4** — Alphabetical glossary of terms.
@@ -11,7 +11,7 @@ A study reference covering the full web development stack: from how the internet
 
 ---
 
-## Part 1 — Module Summaries
+## Part 1 — Summaries
 
 ### 1. Introduction to Web Programming
 
